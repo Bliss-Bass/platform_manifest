@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch=".."
+           fetch="https://android.googlesource.com"
            review="https://android-review.googlesource.com/" />
   <default revision="refs/tags/android-8.1.0_r19"
            remote="aosp"
@@ -621,5 +621,16 @@
   <project path="tools/tradefederation/contrib" name="platform/tools/tradefederation/contrib" groups="pdk,tradefed" />
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
+  
+  <include name="bliss/bliss_remotes.xml" />  
+  <include name="bliss/remove_files.xml" />
+  <include name="bliss/bliss_aosp.xml" />
+  <include name="bliss/bliss_bass.xml" />
+  <include name="bliss/bliss_caf.xml" />
+  
+  <include name="treble/foss.xml" />
+  <include name="treble/manifest.xml" />
+  <include name="treble/opengapps.xml" />
+  <include name="treble/replace.xml" />
 
 </manifest>
