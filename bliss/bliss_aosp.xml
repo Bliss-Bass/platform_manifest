@@ -78,7 +78,6 @@
   <project path="frameworks/opt/telephony" name="platform_frameworks_opt_telephony" remote="BlissRoms" revision="o8.1-backup"/>
   -->
   <project path="frameworks/opt/net/wifi" name="platform_frameworks_opt_net_wifi" remote="BlissRoms" />
-  <!--<project path="frameworks/opt/net/ims" name="platform_frameworks_opt_net_ims" remote="BlissRoms" />-->
 
   <!-- Hardware -->
   <project path="hardware/qcom/media" name="platform_hardware_qcom_media" remote="BlissRoms" />
