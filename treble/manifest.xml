@@ -3,5 +3,4 @@
 <remote name="phh" fetch="https://github.com/phhusson/" />
 
 <project path="vendor/vndk" name="vendor_vndk" remote="phh" revision="master" />
-<project path="vendor/vndk-tests" name="vendor_vndk-tests" remote="phh" revision="master" />
 </manifest>
