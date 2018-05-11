@@ -21,7 +21,7 @@
   
   <!-- Apps -->
   
-  <project path="external/selinux" name="platform_external_selinux" remote="BB" revision="o8.1-tb" />
+  <project path="external/selinux" name="platform_external_selinux" remote="BB" revision="o8.1-tb-f29" />
 
   <!-- Frameworks -->
 
@@ -34,7 +34,7 @@
   <!-- Hardware -->
 
   <project path="system/bt" name="platform_system_bt" remote="BB" revision="o8.1-tb" />
-  <project path="system/core" name="platform_system_core" remote="BB" revision="o8.1-tb" />
+  <project path="system/core" name="platform_system_core" remote="BB" revision="o8.1-tb-f29" />
   <project path="system/libvintf" name="platform_system_libvintf" remote="BB" revision="o8.1" />
   <project path="system/sepolicy" name="platform_system_sepolicy" remote="BB" revision="o8.1-tb" />
   <project path="system/vold" name="platform_system_vold" remote="BB" revision="o8.1-tb" />
