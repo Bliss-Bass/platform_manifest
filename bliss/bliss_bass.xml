@@ -26,10 +26,10 @@
   <!-- Frameworks -->
 
   <project path="frameworks/av" name="platform_frameworks_av" remote="BB" revision="o8.1-tb" />
-  <project path="frameworks/base" name="platform_frameworks_base" remote="BB" revision="o8.1-tb" />
-  <project path="frameworks/native" name="platform_frameworks_native" remote="BB" revision="o8.1-tb" /> 
+  <project path="frameworks/base" name="platform_frameworks_base" remote="BB" revision="o8.1-tb-f29" />
+  <project path="frameworks/native" name="platform_frameworks_native" remote="BB" revision="o8.1-tb-f29" /> 
   <project path="frameworks/opt/net/ims" name="platform_frameworks_opt_net_ims" remote="BB" revision="o8.1-tb" />
-  <project path="frameworks/opt/telephony" name="platform_frameworks_opt_telephony" remote="BB" revision="o8.1-tb2"/>
+  <project path="frameworks/opt/telephony" name="platform_frameworks_opt_telephony" remote="BB" revision="o8.1-tb-f29"/>
 
   <!-- Hardware -->
 
