@@ -17,10 +17,11 @@
   </project>
 
   <project path="bootable/recovery" name="platform_bootable_recovery" remote="BB" revision="o8.1-tb" />
-  <project path="device/phh/treble" name="device_phh_treble" remote="BB" revision="o8.1" />
+  <project path="device/phh/treble" name="device_phh_treble" remote="BB" revision="o8.1-gsi" />
   
   <!-- Apps -->
   
+  <project path="packages/apps/Settings" name="platform_packages_apps_Settings" remote="BB" revision="o8.1-gsi-dev"/>
   <project path="external/selinux" name="platform_external_selinux" remote="BB" revision="o8.1-tb-f29" />
 
   <!-- Frameworks -->
