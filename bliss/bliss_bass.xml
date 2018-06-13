@@ -5,7 +5,7 @@
 
   <project path="manifest" name="platform_manifest" remote="BB" revision="o8.1-tb" />
 
-  <project path="build/make" name="platform_build_make" remote="BB" revision="o8.1-tb" >
+  <project path="build/make" name="platform_build_make" remote="BB" revision="o8.1-gsi" >
     <copyfile src="core/root.mk" dest="Makefile" />
     <copyfile dest="build.sh" src="core/scripts/build.sh" />
     <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
