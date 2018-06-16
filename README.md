@@ -59,4 +59,4 @@ Or...
 
     $ . build/envsetup.sh
     $ lunch treble_arm64_agS-userdebug (or any other treble device combo)
-    $ mka systemimage
+    $ mka vendorimage && mka systemimage
