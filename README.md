@@ -60,5 +60,5 @@ After the sync is finished
 Or...
 
     $ . build/envsetup.sh
-    $ lunch treble_arm64_agS-userdebug (or any other treble device combo)
+    $ lunch treble_arm64_agS-userdebug bliss (or any other treble device combo)
     $ mka vendorimage && mka systemimage
