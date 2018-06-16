@@ -1,5 +1,7 @@
 <img src="https://raw.github.com/BlissRoms/platform_manifest/new-mm6.0/bliss-logo.png">
 
+Bliss-Bass for Treble
+-----------------------
 Download the Bliss-Bass for Treble source code, based on [phhusson](https://github.com/phhusson/treble_manifest), [skunkworx](https://github.com/skunkworkx/platform_manifest), & [BlissRoms](https://github.com/BlissRoms/platform_manifest)
 
 ---------------------------------------------------
