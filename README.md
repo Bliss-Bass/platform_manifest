@@ -54,3 +54,9 @@ Building
 After the sync is finished
 
     $ bash build.sh (to build armA 64bit with su and gapps built in)
+
+Or...
+
+    $ . build/envsetup.sh
+    $ lunch treble_arm64_agS-userdebug (or any other treble device combo)
+    $ mka systemimage
