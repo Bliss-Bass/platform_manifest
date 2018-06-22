@@ -1,4 +1,4 @@
-<img src="https://raw.github.com/BlissRoms/platform_manifest/new-mm6.0/bliss-logo.png">
+<img src="https://i.imgur.com/7V995n7.png">
 
 Bliss-Bass for Treble
 -----------------------
