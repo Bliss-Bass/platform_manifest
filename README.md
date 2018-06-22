@@ -40,7 +40,7 @@ Initializing Repository
 
 Repo initialization :
 
-    $ repo init -u git@git.floydco.net:Bliss-Bass/platform_manifest.git -b o8.1-tb
+    $ repo init -u https://github.com/Bliss-Bass/platform_manifest -b o8.1-tb
 
 sync repo :
 
