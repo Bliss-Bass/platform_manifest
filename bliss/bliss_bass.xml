@@ -42,6 +42,7 @@
   
   <!-- Vendor -->
   
+  <project path="vendor/bliss" name="platform_vendor_bliss" remote="BB" revision="o8.1-tb" />  
   <project path="vendor/hardware_overlay" name="vendor_hardware_overlay" remote="BB" revision="o8.1" />
   <project path="vendor/vndk-tests" name="vendor_vndk-tests" remote="BB" revision="o8.1-gsi" />
   

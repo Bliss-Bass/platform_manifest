@@ -129,7 +129,6 @@
   <project path="system/update_engine" name="platform_system_update_engine" remote="BlissRoms" />
   
   <!-- Vendor -->
-  <project path="vendor/bliss" name="platform_vendor_bliss" remote="BlissRoms" />  
   <project name="Unlegacy-Android/proprietary_vendor_qcom" path="vendor/qcom" remote="github" revision="aosp-8.1" />
   
 </manifest>
