@@ -52,6 +52,32 @@ problems syncing? :
 
 Building
 --------
+treble build options explained:
+
+    treble_arm64_afN-userdebug - ARM64, A-only with FDroid and no superuser
+    treble_arm64_afS-userdebug - ARM64, A-only with FDroid rooted with phh-su
+    treble_arm64_agN-userdebug - ARM64, A-only with OpenGapps and no superuser
+    treble_arm64_agS-userdebug - ARM64, A-only with OpenGapps rooted with phh-su
+    treble_arm64_avN-userdebug - ARM64, A-only with and no superuser
+    treble_arm64_avS-userdebug - ARM64, A-only with rooted with phh-su
+    treble_arm64_bfN-userdebug - ARM64, A/B with FDroid and no superuser
+    treble_arm64_bfS-userdebug - ARM64, A/B with FDroid rooted with phh-su
+    treble_arm64_bgN-userdebug - ARM64, A/B with OpenGapps and no superuser
+    treble_arm64_bgS-userdebug - ARM64, A/B with OpenGapps rooted with phh-su
+    treble_arm64_bvN-userdebug - ARM64, A/B with no superuser
+    treble_arm64_bvS-userdebug - ARM64, A/B and rooted with phh-su
+    treble_arm_afN-userdebug - ARM, A-only with FDroid and no superuser
+    treble_arm_afS-userdebug - ARM, A-only with FDroid rooted with phh-su
+    treble_arm_agN-userdebug - ARM, A-only with OpenGapps and no superuser
+    treble_arm_agS-userdebug - ARM, A-only with OpenGapps rooted with phh-su
+    treble_arm_avN-userdebug - ARM, A-only with and no superuser
+    treble_arm_avS-userdebug - ARM, A-only with rooted with phh-su
+    treble_arm_bfN-userdebug - ARM, A/B with FDroid and no superuser
+    treble_arm_bfS-userdebug - ARM, A/B with FDroid rooted with phh-su
+    treble_arm_bgN-userdebug - ARM, A/B with OpenGapps and no superuser
+    treble_arm_bgS-userdebug - ARM, A/B with OpenGapps rooted with phh-su
+    treble_arm_bvN-userdebug - ARM, A/B and no superuser
+    treble_arm_bvS-userdebug - ARM, A/B and rooted with phh-su
 
 After the sync is finished
 
