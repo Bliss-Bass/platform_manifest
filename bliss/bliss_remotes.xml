@@ -23,8 +23,7 @@
           fetch="https://github.com/opengapps/" />
           
   <remote name="BB"
-          fetch="ssh://git@git.floydco.net/Bliss-Bass"
-          revision="o8.1-tb" />
+          fetch="https://github.com/Bliss-Bass" />
 
   <remote name="ia"
           fetch="https://github.com/android-ia/" />
