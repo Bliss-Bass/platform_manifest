@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!--Android-Generic-->
+	<project path="vendor/ag" name="vendor_ag-v2023" revision="unified" remote="ag" />
+
+</manifest>
+

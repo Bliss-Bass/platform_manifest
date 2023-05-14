@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <include name="default.xml" />
+  <include name="bliss-rom/remove.xml" />
+  <include name="bliss-rom/bliss.xml" />
+  <include name="bliss-rom/los.xml" />
+  <include name="bliss-os-go/00-remotes.xml" />
+  <include name="bliss-os-go/01-removes.xml" />
+  <include name="bliss-os-go/02-android-x86.xml" />
+  <include name="bliss-os-go/03-device.xml" />
+  <include name="bliss-os-go/04-kernel.xml" />
+  <include name="bliss-os-go/05-extras.xml" />
+  <include name="bliss-os-go/06-others.xml" />
+  <include name="bliss-os-go/07-modified.xml" />
+</manifest>

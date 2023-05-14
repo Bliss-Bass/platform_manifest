@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <include name="default.xml" />
+  <include name="bliss-rom/remove.xml" />
+  <include name="bliss-rom/bliss.xml" />
+  <include name="bliss-rom/los.xml" />
+</manifest>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <include name="default.xml" />
+  <include name="android-x86/00-remotes.xml" />
+  <include name="android-x86/01-removes.xml" />
+  <include name="android-x86/02-android-x86.xml" />
+  <include name="android-x86/03-device.xml" />
+  <include name="android-x86/04-kernel.xml" />
+  <include name="android-x86/05-extras.xml" />
+  <include name="android-x86/06-others.xml" />
+  <include name="android-x86/07-graphics.xml" />
+  <include name="android-x86/08-los.xml" />
+  <!-- <include name="android-x86/90-android-generic.xml" /> -->
+</manifest>
