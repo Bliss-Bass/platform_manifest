@@ -38,6 +38,6 @@
   <project path="packages/apps/Camera2" name="BlissRoms-x86/platform_packages_apps_Camera2" remote="ghub" revision="arcadia-x86" />
 
   <remove-project name="platform_packages_apps_Launcher3" />
-  <project path="packages/apps/Launcher3" name="BlissRoms-x86/platform_packages_apps_Launcher3" remote="ghub" revision="arcadia-x86-go" />
+  <project path="packages/apps/Launcher3" name="BlissRoms-x86/platform_packages_apps_Launcher3" remote="ghub" revision="arcadia-go" />
 
 </manifest>
